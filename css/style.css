@@ -71,6 +71,7 @@ ul, .nav li a {
     display: flex;
     justify-content: center;
     background: #020718;
+    width: 1313px;
     height: 560px;
     flex-shrink: 0;
 }
@@ -136,5 +137,7 @@ ul, .nav li a {
     opacity: 0.800000011920929;
     letter-spacing: -0.5px;
 }
+
+
 
 /*footer start*/
